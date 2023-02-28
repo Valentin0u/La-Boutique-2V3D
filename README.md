@@ -13,3 +13,8 @@ Passionné de d'impression 3D, j'ai donc choisi de développer une boutique en S
 
 ![Mon panier](https://user-images.githubusercontent.com/18125893/221957907-56dbbdcd-94d0-4b20-95ed-082705d3e54e.png)
 
+![Livraison](https://user-images.githubusercontent.com/18125893/221958167-2d0a6a51-6614-4054-b452-35fc5f4bb3cc.png)
+
+![Recapitulatif](https://user-images.githubusercontent.com/18125893/221958245-b43007b2-409c-49c2-b0a0-02df0492e6d2.png)
+
+![Mon compte](https://user-images.githubusercontent.com/18125893/221958287-9877eb40-fe69-46ab-8489-960120a70b65.png)
