@@ -3,3 +3,13 @@ Passionate about 3D printing, I therefore chose to develop a shop in Symfony wit
 
 Ce projet de site e-commerce est le rendu final pour l'obtention de mon titre professionnel de Développeur Web et Web Mobile. 
 Passionné de d'impression 3D, j'ai donc choisi de développer une boutique en Symfony avec un système de paiement stripe totalement fonctionnel.
+
+
+![Home](https://user-images.githubusercontent.com/18125893/221957779-75e08768-e350-43b0-b622-3e39d916600d.png)
+
+![Catalogue](https://user-images.githubusercontent.com/18125893/221957812-543bed7f-f8ab-454e-8c4f-09e1ba5bbde5.png)
+
+![Détails Produit](https://user-images.githubusercontent.com/18125893/221957845-734e5cd1-99da-483d-9a99-6ed6e0277a66.png)
+
+![Mon panier](https://user-images.githubusercontent.com/18125893/221957907-56dbbdcd-94d0-4b20-95ed-082705d3e54e.png)
+
