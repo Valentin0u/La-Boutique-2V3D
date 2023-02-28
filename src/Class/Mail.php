@@ -8,8 +8,8 @@ use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 
 class Mail
 {
-    private $api_key = '357a4594d3701ed5785e0140cc46205b';    
-    private $api_key_secret = '2dd6c25ea6d3152e613af64273f4cc2a';    
+    private $api_key = '**************************';    
+    private $api_key_secret = '********************************';    
 
     
     public function send($to_email, $to_name, $subject, $content)
