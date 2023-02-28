@@ -20,3 +20,5 @@ Passionné de d'impression 3D, j'ai donc choisi de développer une boutique en S
 ![Recapitulatif](https://user-images.githubusercontent.com/18125893/221958245-b43007b2-409c-49c2-b0a0-02df0492e6d2.png)
 
 ![Mon compte](https://user-images.githubusercontent.com/18125893/221958287-9877eb40-fe69-46ab-8489-960120a70b65.png)
+
+![Historique des commandes](https://user-images.githubusercontent.com/18125893/221958501-436537c3-7d50-4251-866d-9fa0d22ca7a3.png)
