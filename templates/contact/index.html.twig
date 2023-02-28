@@ -1,0 +1,26 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Nous contacter - La boutique 2V3D{% endblock %}
+
+{% block content %}
+<h1>Formulaire de contact</h1>
+
+    <p>N'hésitez pas à prendre contact avec notre équipe, nous vous répondrons dans les meilleures délais.</p>
+
+    {% for message in app.flashes('info') %}
+        <div class="alert alert-info text-center">{{ message }}</div>
+    {% endfor %}
+
+    <div class="row">
+        <div class="col-8">
+            {{form(form)}}
+        </div>
+        <div class="col-4">
+            <strong>La Boutique 2V3D</strong><br>
+            Vous pouvez nous contacter: <br>
+            - 06 01 23 45 67 <br>
+            - laboutique2v3d@gmail.com   
+        </div>
+    </div>
+
+{% endblock %}

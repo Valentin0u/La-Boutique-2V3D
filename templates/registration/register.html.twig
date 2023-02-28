@@ -1,0 +1,38 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Inscription{% endblock %}
+{% block content %}
+    <h1>Inscription</h1>
+
+    {% if notification %}
+        <div class="alert alert-info">
+            {{ notification }}
+        </div>
+        <hr>
+    {% endif %}
+    {{ form(form) }}
+    <a href="{{ path('cgu') }}">Voir les Conditions d'utilisation</a>
+{% endblock %}
+{# 
+{% block content %}
+    {% for flash_error in app.flashes('verify_email_error') %}
+        <div class="alert alert-danger" role="alert">{{ flash_error }}</div>
+    {% endfor %}
+
+    <h1>Inscription</h1>
+
+    {{ form_start(registrationForm) }}
+        {{ form_row(registrationForm.firstname) }}
+        {{ form_row(registrationForm.lastname) }}
+        {{ form_row(registrationForm.email) }}
+        {{ form_row(registrationForm.plainPassword.first) }}
+        {{ form_row(registrationForm.plainPassword.second) }}
+        {{ form_row(registrationForm.agreeTerms) }} <a href="{{ path('cgu') }}">Voir les Conditions d'utilisation</a>
+        <br>
+        <br>
+
+
+
+        <button type="submit" class="btn btn-primary">Inscription</button>
+    {{ form_end(registrationForm) }}
+{% endblock %} #}
